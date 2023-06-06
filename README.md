@@ -8,4 +8,4 @@
 💬 Ask me about all the countries I've travelled to! 🏞️
 
 Languages and Tools
-HTML5 CSS3 Javascript TypeScript TailwindCSS React NextJs NodeJS MongoDB Express git  Photoshop Figma Firebase
+HTML5 CSS3 Javascript TypeScript TailwindCSS React NextJs NodeJS MongoDB Git  Photoshop Figma Firebase
