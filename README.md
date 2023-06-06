@@ -1,7 +1,7 @@
 👋 Hi, I'm Arjun!
 
 👨‍💻 I'm a software engineer, and I create JOY with code! 😸
-🏗️ I build beautiful, accessible applications and websties ☄️
+🏗️ I build beautiful, accessible applications and websites ☄️
 
 🥾 I enjoy Bodybuilding and video games 🎮
 
