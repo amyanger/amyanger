@@ -6,7 +6,7 @@
 
 💡 Passionate about **tech, open source**, and **creative problem-solving**  
 🥾 In my free time, you'll find me **bodybuilding** or gaming 🎮  
-🌍 I've traveled to **X+ countries**—Ask me about my adventures! 🏞️  
+🌍 I've traveled to **20+ countries**—Ask me about my adventures! 🏞️  
 
 ---
 
