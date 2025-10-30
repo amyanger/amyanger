@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Arjun! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
+# Hi, I'm Arjun! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=440&lines=Software+Engineer;Creating+JOY+with+Code!+%F0%9F%98%B8;Full+Stack+Developer;Building+Beautiful+Applications" alt="Typing SVG" />
