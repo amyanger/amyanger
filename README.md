@@ -41,19 +41,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amyanger&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amyanger&theme=radical&hide_border=true" alt="GitHub Streak" height="165">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amyanger&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="95%">
-</div>
-
----
-
 <div align="center">
 
 🔥 _"Code with joy, build with passion!"_
