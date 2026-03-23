@@ -40,9 +40,3 @@
 </div>
 
 ---
-
-<div align="center">
-
-🔥 _"Code with joy, build with passion!"_
-
-</div>
