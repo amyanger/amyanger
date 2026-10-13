@@ -27,6 +27,7 @@ jobs:
           base: header
           config_timezone: Europe/London
           config_octicon: yes
+          config_order: base.header, isocalendar, languages, notable
           retries: 3
           retries_delay: 300
           commits_authoring: arjun-myanger, amyanger, 57688398+amyanger@users.noreply.github.com

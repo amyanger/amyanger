@@ -1,4 +1,4 @@
-<img src="assets/banner.png" alt="Hi, I'm Arjun. I build emulators, kernels and other low-level things from scratch." width="100%" />
+<p align="center"><img src="metrics.svg" alt="Arjun's GitHub metrics: contribution calendar, streaks, most used languages and notable contributions" /></p>
 
 I'm a software engineer in London. These days I spend most of my time on emulators, a hobby kernel and other projects that sit close to the hardware, but I build web apps too. Away from the keyboard I lift, play games, and I've traveled to 20+ countries, so ask me about those.
 
