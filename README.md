@@ -90,3 +90,9 @@ My fork of the pret HeartGold/SoulSilver decompilation. I'm turning the Pokéath
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amyanger/amyanger/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amyanger/amyanger/output/github-snake.svg" />
+  <img alt="A snake eating Arjun's GitHub contribution graph" src="https://raw.githubusercontent.com/amyanger/amyanger/output/github-snake.svg" width="100%" />
+</picture>
