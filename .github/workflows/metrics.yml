@@ -9,8 +9,14 @@ jobs:
     permissions:
       contents: write
     steps:
-      # Pinned to the v3.34 commit (the project has had no release since 2023-09),
-      # and the image is built from that commit instead of pulling a movable registry tag.
+      # The project's 2023 Dockerfile no longer builds, so pull the published v3.34
+      # image by digest and give it the local name the action looks for; with
+      # use_prebuilt_image off, the action then uses it instead of a movable tag.
+      - name: Pull pinned metrics image
+        run: |
+          docker pull ghcr.io/lowlighter/metrics@sha256:257392f90340f916cb8b815026f259399f6b246d3eb7de38b58bfe7a07bd5b65
+          docker tag ghcr.io/lowlighter/metrics@sha256:257392f90340f916cb8b815026f259399f6b246d3eb7de38b58bfe7a07bd5b65 metrics:3.34.0
+      # Pinned to the v3.34 commit (no release since 2023-09).
       - uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6
         with:
           token: ${{ secrets.METRICS_TOKEN }}
