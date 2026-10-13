@@ -1,4 +1,4 @@
-<img src="assets/banner.png" alt="Terminal: whoami prints Hi, I'm Arjun, a software engineer in London building emulators, kernels and low-level tools" width="100%" />
+<img src="assets/banner-terminal.png" alt="Terminal: whoami prints Hi, I'm Arjun, a software engineer in London building emulators, kernels and low-level tools" width="100%" />
 
 I'm a software engineer in London. These days I spend most of my time on emulators, a hobby kernel and other projects that sit close to the hardware, but I build web apps too. Away from the keyboard I lift, play games, and I've traveled to 20+ countries, so ask me about those.
 
