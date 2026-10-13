@@ -1,0 +1,29 @@
+name: Snake
+on:
+  schedule: [{cron: "0 4 * * *"}]
+  workflow_dispatch:
+  push: {branches: ["main"], paths: [".github/workflows/snake.yml"]}
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      # Pinned to the v3.5.0 commit
+      - uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      # Publish the SVGs as the only commit on the output branch, so it never grows
+      - name: Push to output branch
+        run: |
+          cd dist
+          git init -q -b output
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -q -m "Update contribution snake"
+          git push -q -f "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" output
