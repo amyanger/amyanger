@@ -9,9 +9,12 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      # Pinned to the v3.34 commit (the project has had no release since 2023-09),
+      # and the image is built from that commit instead of pulling a movable registry tag.
+      - uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          use_prebuilt_image: no
           user: amyanger
           filename: metrics.svg
           template: classic
@@ -27,7 +30,8 @@ jobs:
 
           plugin_languages: yes
           plugin_languages_indepth: yes
-          plugin_languages_sections: most-used, recently-used
+          # recently-used crashes since GitHub dropped commit lists from push events (2025)
+          plugin_languages_sections: most-used
           plugin_languages_details: lines, bytes-size, percentage
           plugin_languages_limit: 6
           plugin_languages_ignored: html, css, makefile, cmake, shell, dockerfile, batchfile
