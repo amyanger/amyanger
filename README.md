@@ -1,4 +1,8 @@
-<img src="assets/banner-terminal.png" alt="Terminal: whoami prints Hi, I'm Arjun, a software engineer in London building emulators, kernels and low-level tools" width="100%" />
+# Hi, I'm Arjun! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=440&lines=Software+Engineer;Creating+JOY+with+Code!+%F0%9F%98%B8;Full+Stack+Developer;Building+Beautiful+Applications" alt="Typing SVG" />
+</div>
 
 I'm a software engineer in London. These days I spend most of my time on emulators, a hobby kernel and other projects that sit close to the hardware, but I build web apps too. Away from the keyboard I lift, play games, and I've traveled to 20+ countries, so ask me about those.
 
