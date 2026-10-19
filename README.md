@@ -1,4 +1,4 @@
-# Hi, I'm Arjun! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
+# Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=440&lines=Software+Engineer;Creating+JOY+with+Code!+%F0%9F%98%B8;Full+Stack+Developer;Building+Beautiful+Applications" alt="Typing SVG" />
@@ -109,5 +109,5 @@ My fork of the pret HeartGold/SoulSilver decompilation. I'm turning the Pokéath
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amyanger/amyanger/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amyanger/amyanger/output/github-snake.svg" />
-  <img alt="A snake eating Arjun's GitHub contribution graph" src="https://raw.githubusercontent.com/amyanger/amyanger/output/github-snake.svg" width="100%" />
+  <img alt="A snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/amyanger/amyanger/output/github-snake.svg" width="100%" />
 </picture>
